@@ -4,3 +4,5 @@ source "https://rubygems.org"
 # gem "rails"
 gem 'rspec'
 gem 'require_all'
+gem 'mail'
+gem 'pi_piper'
